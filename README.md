@@ -81,19 +81,6 @@
 
 </div>
 
-## 💼 Experience
-
-### 🔹 [Job Title] at [Company Name]
-*[Start Date] - [End Date/Present]*
-- Achievement/responsibility 1
-- Achievement/responsibility 2
-- Achievement/responsibility 3
-
-### 🔹 [Previous Job Title] at [Previous Company]
-*[Start Date] - [End Date]*
-- Achievement/responsibility 1
-- Achievement/responsibility 2
-
 ## 🎓 Education
 
 **[Degree] in [Field]**  
